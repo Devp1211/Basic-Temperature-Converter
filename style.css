@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(255, 224, 151);
+}
+
+input {
+  border-radius: 15px;
+  border: 2px dashed rgb(132, 37, 37);
+  font-size: 16px;
+  line-height: 1;
+  outline: none;
+  font-weight: bold;
+  color: red;
+  padding: 5px 10px 5px 10px;
+  background-color: #ffffb7;
+}
+  
+h1 {
+  color: rgb(72, 33, 33) ;
+  font-weight: bold;
+  ;
+ 
+}
